@@ -34,5 +34,5 @@ Problems are organized by pattern, not by date — makes revision easier before 
 
 \- GitHub: \[RathishRaji08](https://github.com/RathishRaji08)
 
-\- LinkedIn: \*(add your link once ready)\*
+\- LinkedIn: \[Rathish Raji](https://www.linkedin.com/in/rathish-raji-b91940421)
 
