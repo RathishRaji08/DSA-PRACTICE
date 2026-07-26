@@ -18,6 +18,8 @@ Cracking DSA day by day — solving problems pattern-by-pattern as part of my pl
 
 | 2 | Longest Subarray with Sum K | Prefix Sum \& Hashing | Medium | GeeksforGeeks |
 
+| 3 | Majority Element | Boyer-Moore Voting | Easy | LeetCode |
+
 
 
 \## 📁 Folder Structure
