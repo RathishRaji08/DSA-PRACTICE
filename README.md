@@ -20,6 +20,8 @@ Cracking DSA day by day — solving problems pattern-by-pattern as part of my pl
 
 | 3 | Majority Element | Boyer-Moore Voting | Easy | LeetCode |
 
+| 4 | Maximum Subarray Sum | Kadane's Algorithm | Medium | GeeksforGeeks |
+
 
 
 \## 📁 Folder Structure
