@@ -22,6 +22,8 @@ Cracking DSA day by day — solving problems pattern-by-pattern as part of my pl
 
 | 4 | Maximum Subarray Sum | Kadane's Algorithm | Medium | GeeksforGeeks |
 
+| 5 | Inversion Count | Merge Sort / Divide \& Conquer | Medium | GeeksforGeeks |
+
 
 
 \## 📁 Folder Structure
