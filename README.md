@@ -25,6 +25,7 @@ Cracking DSA day by day — solving problems pattern-by-pattern as part of my pl
 | 5 | Inversion Count | Merge Sort / Divide \& Conquer | Medium | GeeksforGeeks |
 
 | 6 | Merge Intervals | Intervals | Medium | LeetCode |
+| 7 | Trapping Rain Water | Two Pointers | Hard | GeeksforGeeks |
 
 
 
