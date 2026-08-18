@@ -27,6 +27,8 @@ Cracking DSA day by day — solving problems pattern-by-pattern as part of my pl
 | 6 | Merge Intervals | Intervals | Medium | LeetCode |
 | 7 | Trapping Rain Water | Two Pointers | Hard | GeeksforGeeks |
 
+| 8 | Search a 2D Matrix | Binary Search | Medium | LeetCode |
+
 
 
 \## 📁 Folder Structure
